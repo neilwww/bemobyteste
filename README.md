@@ -10,8 +10,8 @@ Insert the path where the file you want to read is located then insert the path 
 - First input = 'C:\Users\neilj\Documents\numbers.txt'
 - Second input = 'C:\Users\neilj\Documents\sortedinfos\sorternumbers.txt'
 
-##Screenshots
--Expected Results
+## Screenshots
+
 ![](https://i.imgur.com/mDZK3O3.png?raw=true)
 
 
